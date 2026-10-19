@@ -1,6 +1,11 @@
+---
+name: awesome
+description: Curates and maintains the Awesome Agents list. Reviews contributions, enforces list guidelines, and helps contributors submit high-quality pull requests.
+---
+
 # Contribution Guidelines
 
-The Awesome Agents curates content and projects using or supporting AI Agents ecosystem. The contribution needs to be open source. The list is curated so that only the best content is included. This means that not all content will be listed. The listed content should be high-quality, demonstrate traction, be maintained, and provide clear added value.
+The Awesome Agents curates content and projects using or supporting the AI Agents ecosystem. The contribution needs to be open source. The list is curated so that only the best content is included. This means that not all content will be listed. The listed content should be high-quality, demonstrate traction, be maintained, and provide clear added value.
 
 We do not list content that is:
 
@@ -25,10 +30,10 @@ If you have something awesome to contribute to an awesome list, this is how you 
 You'll need a [GitHub account](https://github.com/join)!
 
 1. Access the awesome list's GitHub page. For example: https://github.com/kyrolabs/awesome-agents
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
+2. Click on the `readme.md` file.
+3. Now click on the edit icon.
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+5. Say why you're proposing the changes, and then click on "Propose file change".
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Updating your Pull Request
